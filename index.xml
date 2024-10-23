@@ -1,0 +1,238 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>rce blog</title>
+        <link>https://example.org/</link>
+        <description>a rce note blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Wed, 23 Oct 2024 18:02:16 &#43;0800</lastBuildDate>
+            <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title>主题文档 - Shortcodes</title>
+    <link>https://example.org/posts/%E4%B8%BB%E9%A2%98/shortcodes/</link>
+    <pubDate>Wed, 23 Oct 2024 14:22:36 &#43;0800</pubDate>
+    <author>v</author>
+    <guid>https://example.org/posts/%E4%B8%BB%E9%A2%98/shortcodes/</guid>
+    <description><![CDATA[<h1 id="主题文档---内置-shortcodes">主题文档 - 内置 Shortcodes</h1>
+<p><strong>Hugo</strong> 提供了多个内置的 Shortcodes, 以方便作者保持 Markdown 内容的整洁.</p>]]></description>
+</item>
+<item>
+    <title>主题文档 - 内容</title>
+    <link>https://example.org/posts/%E4%B8%BB%E9%A2%98/%E5%86%85%E5%AE%B9/</link>
+    <pubDate>Wed, 23 Oct 2024 13:52:36 &#43;0800</pubDate>
+    <author>v</author>
+    <guid>https://example.org/posts/%E4%B8%BB%E9%A2%98/%E5%86%85%E5%AE%B9/</guid>
+    <description><![CDATA[<h1 id="内容">内容</h1>
+<p>了解如何在 <strong>LoveIt</strong> 主题中快速, 直观地创建和组织内容.</p>]]></description>
+</item>
+<item>
+    <title>主题文档 - 基本概念</title>
+    <link>https://example.org/posts/%E4%B8%BB%E9%A2%98/%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5/</link>
+    <pubDate>Tue, 22 Oct 2024 16:52:36 &#43;0800</pubDate>
+    <author>v</author>
+    <guid>https://example.org/posts/%E4%B8%BB%E9%A2%98/%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/images/basic-configuration-preview.zh-cn.png" referrerpolicy="no-referrer">
+            </div><h1 id="基本概念">基本概念</h1>
+<p>探索 Hugo - <strong>LoveIt</strong> 主题的全部内容和背后的核心概念.</p>]]></description>
+</item>
+<item>
+    <title>博客搭建过程</title>
+    <link>https://example.org/posts/blog_init/</link>
+    <pubDate>Mon, 21 Oct 2024 17:37:06 &#43;0800</pubDate>
+    <author>v</author>
+    <guid>https://example.org/posts/blog_init/</guid>
+    <description><![CDATA[<h2 id="hugo下载">hugo下载</h2>
+<p><a href="https://github.com/gohugoio/hugo" target="_blank" rel="noopener noreffer ">https://github.com/gohugoio/hugo</a></p>
+<p>下载的是 <code>hugo_extended</code>版本，支持 <code>scss/sass</code>等语法</p>
+<h2 id="博客初始化">博客初始化</h2>
+<p>使用的是<a href="https://github.com/dillonzq/LoveIt" target="_blank" rel="noopener noreffer ">LoveIt</a>主题</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span><span class="lnt">5
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">hugo new site blog
+</span></span><span class="line"><span class="cl">cd blog
+</span></span><span class="line"><span class="cl">git init
+</span></span><span class="line"><span class="cl">git submodule add https://github.com/dillonzq/LoveIt themes/LoveIt
+</span></span><span class="line"><span class="cl">echo &#34;theme = &#39;LoveIt&#39;&#34; &gt;&gt; hugo.toml
+</span></span></code></pre></td></tr></table>
+</div>
+</div><h3 id="新版hugo-v01362使用loveit主题报错修复">新版hugo v0.136.2使用loveit主题报错修复</h3>
+<blockquote>
+<p>ERROR deprecated: hugo.IsMultilingual was deprecated in Hugo v0.124.0 and will be removed in Hugo 0.137.0. Use hugo.IsMultilingual instead.</p>]]></description>
+</item>
+<item>
+    <title>模版文档</title>
+    <link>https://example.org/posts/%E4%B8%BB%E9%A2%98/%E6%A8%A1%E7%89%88%E6%96%87%E6%A1%A3/</link>
+    <pubDate>Fri, 04 Oct 2024 15:58:26 &#43;0800</pubDate>
+    <author>v</author>
+    <guid>https://example.org/posts/%E4%B8%BB%E9%A2%98/%E6%A8%A1%E7%89%88%E6%96%87%E6%A1%A3/</guid>
+    <description><![CDATA[<h1 id="模版文档的前置参数">模版文档的前置参数</h1>
+<p>Hugo 允许你在文章内容前面添加 yaml, toml 或者 json 格式的前置参数.</p>
+<p>代码</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt"> 1
+</span><span class="lnt"> 2
+</span><span class="lnt"> 3
+</span><span class="lnt"> 4
+</span><span class="lnt"> 5
+</span><span class="lnt"> 6
+</span><span class="lnt"> 7
+</span><span class="lnt"> 8
+</span><span class="lnt"> 9
+</span><span class="lnt">10
+</span><span class="lnt">11
+</span><span class="lnt">12
+</span><span class="lnt">13
+</span><span class="lnt">14
+</span><span class="lnt">15
+</span><span class="lnt">16
+</span><span class="lnt">17
+</span><span class="lnt">18
+</span><span class="lnt">19
+</span><span class="lnt">20
+</span><span class="lnt">21
+</span><span class="lnt">22
+</span><span class="lnt">23
+</span><span class="lnt">24
+</span><span class="lnt">25
+</span><span class="lnt">26
+</span><span class="lnt">27
+</span><span class="lnt">28
+</span><span class="lnt">29
+</span><span class="lnt">30
+</span><span class="lnt">31
+</span><span class="lnt">32
+</span><span class="lnt">33
+</span><span class="lnt">34
+</span><span class="lnt">35
+</span><span class="lnt">36
+</span><span class="lnt">37
+</span><span class="lnt">38
+</span><span class="lnt">39
+</span><span class="lnt">40
+</span><span class="lnt">41
+</span><span class="lnt">42
+</span><span class="lnt">43
+</span><span class="lnt">44
+</span><span class="lnt">45
+</span><span class="lnt">46
+</span><span class="lnt">47
+</span><span class="lnt">48
+</span><span class="lnt">49
+</span><span class="lnt">50
+</span><span class="lnt">51
+</span><span class="lnt">52
+</span><span class="lnt">53
+</span><span class="lnt">54
+</span><span class="lnt">55
+</span><span class="lnt">56
+</span><span class="lnt">57
+</span><span class="lnt">58
+</span><span class="lnt">59
+</span><span class="lnt">60
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">---
+</span></span><span class="line"><span class="cl">title: &#34;我的第一篇文章&#34;
+</span></span><span class="line"><span class="cl">subtitle: &#34;&#34;
+</span></span><span class="line"><span class="cl">date: 2024-10-04T15:58:26+08:00
+</span></span><span class="line"><span class="cl">lastmod: 2024-10-04T15:58:26+08:00
+</span></span><span class="line"><span class="cl">draft: true
+</span></span><span class="line"><span class="cl">author: &#34;v&#34;
+</span></span><span class="line"><span class="cl">authorLink: &#34;&#34;
+</span></span><span class="line"><span class="cl">description: &#34;&#34;
+</span></span><span class="line"><span class="cl">license: &#34;&#34;
+</span></span><span class="line"><span class="cl">images: []
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">tags: []
+</span></span><span class="line"><span class="cl">categories: []
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">featuredImage: &#34;&#34;
+</span></span><span class="line"><span class="cl">featuredImagePreview: &#34;&#34;
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">hiddenFromHomePage: false
+</span></span><span class="line"><span class="cl">hiddenFromSearch: false
+</span></span><span class="line"><span class="cl">twemoji: false
+</span></span><span class="line"><span class="cl">lightgallery: true
+</span></span><span class="line"><span class="cl">ruby: true
+</span></span><span class="line"><span class="cl">fraction: true
+</span></span><span class="line"><span class="cl">fontawesome: true
+</span></span><span class="line"><span class="cl">linkToMarkdown: true
+</span></span><span class="line"><span class="cl">rssFullText: false
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">toc:
+</span></span><span class="line"><span class="cl">  enable: true
+</span></span><span class="line"><span class="cl">  auto: true
+</span></span><span class="line"><span class="cl">code:
+</span></span><span class="line"><span class="cl">  copy: true
+</span></span><span class="line"><span class="cl">  maxShownLines: 50
+</span></span><span class="line"><span class="cl">math:
+</span></span><span class="line"><span class="cl">  enable: false
+</span></span><span class="line"><span class="cl">  # ...
+</span></span><span class="line"><span class="cl">mapbox:
+</span></span><span class="line"><span class="cl">  # ...
+</span></span><span class="line"><span class="cl">share:
+</span></span><span class="line"><span class="cl">  enable: true
+</span></span><span class="line"><span class="cl">  # ...
+</span></span><span class="line"><span class="cl">comment:
+</span></span><span class="line"><span class="cl">  enable: true
+</span></span><span class="line"><span class="cl">  # ...
+</span></span><span class="line"><span class="cl">library:
+</span></span><span class="line"><span class="cl">  css:
+</span></span><span class="line"><span class="cl">    # someCSS = &#34;some.css&#34;
+</span></span><span class="line"><span class="cl">    # 位于 &#34;assets/&#34;
+</span></span><span class="line"><span class="cl">    # 或者
+</span></span><span class="line"><span class="cl">    # someCSS = &#34;https://cdn.example.com/some.css&#34;
+</span></span><span class="line"><span class="cl">  js:
+</span></span><span class="line"><span class="cl">    # someJS = &#34;some.js&#34;
+</span></span><span class="line"><span class="cl">    # 位于 &#34;assets/&#34;
+</span></span><span class="line"><span class="cl">    # 或者
+</span></span><span class="line"><span class="cl">    # someJS = &#34;https://cdn.example.com/some.js&#34;
+</span></span><span class="line"><span class="cl">seo:
+</span></span><span class="line"><span class="cl">  images: []
+</span></span><span class="line"><span class="cl">  # ...
+</span></span><span class="line"><span class="cl">---
+</span></span></code></pre></td></tr></table>
+</div>
+</div><ul>
+<li><strong>title</strong>: 文章标题.</li>
+<li><strong>subtitle</strong>: <a href="https://github.com/dillonzq/LoveIt/releases/tag/v0.2.0" rel="noopener noreffer" target="_blank"></a> 文章副标题.</li>
+<li><strong>date</strong>: 这篇文章创建的日期时间. 它通常是从文章的前置参数中的 <code>date</code> 字段获取的, 但是也可以在 网站配置 中设置.</li>
+<li><strong>lastmod</strong>: 上次修改内容的日期时间.</li>
+<li><strong>draft</strong>: 如果设为 <code>true</code>, 除非 <code>hugo</code> 命令使用了 <code>--buildDrafts</code>/<code>-D</code> 参数, 这篇文章不会被渲染.</li>
+<li><strong>author</strong>: 文章作者.</li>
+<li><strong>authorLink</strong>: 文章作者的链接.</li>
+<li><strong>description</strong>: 文章内容的描述.</li>
+<li><strong>license</strong>: 这篇文章特殊的许可.</li>
+<li><strong>images</strong>: 页面图片, 用于 Open Graph 和 Twitter Cards.</li>
+<li><strong>tags</strong>: 文章的标签.</li>
+<li><strong>categories</strong>: 文章所属的类别.</li>
+<li><strong>featuredImage</strong>: 文章的特色图片.</li>
+<li><strong>featuredImagePreview</strong>: 用在主页预览的文章特色图片.</li>
+<li><strong>hiddenFromHomePage</strong>: 如果设为 <code>true</code>, 这篇文章将不会显示在主页上.</li>
+<li><strong>hiddenFromSearch</strong>: <a href="https://github.com/dillonzq/LoveIt/releases/tag/v0.2.0" rel="noopener noreffer" target="_blank"></a> 如果设为 <code>true</code>, 这篇文章将不会显示在搜索结果中.</li>
+<li><strong>twemoji</strong>: <a href="https://github.com/dillonzq/LoveIt/releases/tag/v0.2.0" rel="noopener noreffer" target="_blank"></a> 如果设为 <code>true</code>, 这篇文章会使用 twemoji.</li>
+<li><strong>lightgallery</strong>: 如果设为 <code>true</code>, 文章中的图片将可以按照画廊形式呈现.</li>
+<li><strong>ruby</strong>: <a href="https://github.com/dillonzq/LoveIt/releases/tag/v0.2.0" rel="noopener noreffer" target="_blank"></a> 如果设为 <code>true</code>, 这篇文章会使用 <a href="#ruby" rel="">上标注释扩展语法</a>.</li>
+<li><strong>fraction</strong>: <a href="https://github.com/dillonzq/LoveIt/releases/tag/v0.2.0" rel="noopener noreffer" target="_blank"></a> 如果设为 <code>true</code>, 这篇文章会使用 <a href="#fraction" rel="">分数扩展语法</a>.</li>
+<li><strong>fontawesome</strong>: <a href="https://github.com/dillonzq/LoveIt/releases/tag/v0.2.0" rel="noopener noreffer" target="_blank"></a> 如果设为 <code>true</code>, 这篇文章会使用 <a href="#fontawesome" rel="">Font Awesome 扩展语法</a>.</li>
+<li><strong>linkToMarkdown</strong>: 如果设为 <code>true</code>, 内容的页脚将显示指向原始 Markdown 文件的链接.</li>
+<li><strong>rssFullText</strong>: <a href="https://github.com/dillonzq/LoveIt/releases/tag/v0.2.4" rel="noopener noreffer" target="_blank"></a> 如果设为 <code>true</code>, 在 RSS 中将会显示全文内容.</li>
+<li><strong>toc</strong>: <a href="https://github.com/dillonzq/LoveIt/releases/tag/v0.2.9" rel="noopener noreffer" target="_blank"></a> 和 网站配置 中的 <code>params.page.toc</code> 部分相同.</li>
+<li><strong>code</strong>: <a href="https://github.com/dillonzq/LoveIt/releases/tag/v0.2.0" rel="noopener noreffer" target="_blank"></a> 和 网站配置 中的 <code>params.page.code</code> 部分相同.</li>
+<li><strong>math</strong>: <a href="https://github.com/dillonzq/LoveIt/releases/tag/v0.2.0" rel="noopener noreffer" target="_blank"></a> 和 网站配置 中的 <code>params.page.math</code> 部分相同.</li>
+<li><strong>mapbox</strong>: <a href="https://github.com/dillonzq/LoveIt/releases/tag/v0.2.0" rel="noopener noreffer" target="_blank"></a> 和 网站配置 中的 <code>params.page.mapbox</code> 部分相同.</li>
+<li><strong>share</strong>: 和 网站配置 中的 <code>params.page.share</code> 部分相同.</li>
+<li><strong>comment</strong>: <a href="https://github.com/dillonzq/LoveIt/releases/tag/v0.2.0" rel="noopener noreffer" target="_blank"></a> 和 网站配置 中的 <code>params.page.comment</code> 部分相同.</li>
+<li><strong>library</strong>: <a href="https://github.com/dillonzq/LoveIt/releases/tag/v0.2.7" rel="noopener noreffer" target="_blank"></a> 和 网站配置 中的 <code>params.page.library</code> 部分相同.</li>
+<li><strong>seo</strong>: <a href="https://github.com/dillonzq/LoveIt/releases/tag/v0.2.10" rel="noopener noreffer" target="_blank"></a> 和 网站配置 中的 <code>params.page.seo</code> 部分相同.</li>
+</ul>]]></description>
+</item>
+</channel>
+</rss>
