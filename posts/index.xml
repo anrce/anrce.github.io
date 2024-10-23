@@ -1,32 +1,32 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>所有文章 - rce blog</title>
-        <link>https://example.org/posts/</link>
+        <link>https://anrce.github.io/posts/</link>
         <description>所有文章 | rce blog</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Wed, 23 Oct 2024 14:22:36 &#43;0800</lastBuildDate><atom:link href="https://example.org/posts/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Wed, 23 Oct 2024 14:22:36 &#43;0800</lastBuildDate><atom:link href="https://anrce.github.io/posts/" rel="self" type="application/rss+xml" /><item>
     <title>主题文档 - Shortcodes</title>
-    <link>https://example.org/posts/%E4%B8%BB%E9%A2%98/shortcodes/</link>
+    <link>https://anrce.github.io/posts/%E4%B8%BB%E9%A2%98/shortcodes/</link>
     <pubDate>Wed, 23 Oct 2024 14:22:36 &#43;0800</pubDate>
     <author>v</author>
-    <guid>https://example.org/posts/%E4%B8%BB%E9%A2%98/shortcodes/</guid>
+    <guid>https://anrce.github.io/posts/%E4%B8%BB%E9%A2%98/shortcodes/</guid>
     <description><![CDATA[<h1 id="主题文档---内置-shortcodes">主题文档 - 内置 Shortcodes</h1>
 <p><strong>Hugo</strong> 提供了多个内置的 Shortcodes, 以方便作者保持 Markdown 内容的整洁.</p>]]></description>
 </item>
 <item>
     <title>主题文档 - 内容</title>
-    <link>https://example.org/posts/%E4%B8%BB%E9%A2%98/%E5%86%85%E5%AE%B9/</link>
+    <link>https://anrce.github.io/posts/%E4%B8%BB%E9%A2%98/%E5%86%85%E5%AE%B9/</link>
     <pubDate>Wed, 23 Oct 2024 13:52:36 &#43;0800</pubDate>
     <author>v</author>
-    <guid>https://example.org/posts/%E4%B8%BB%E9%A2%98/%E5%86%85%E5%AE%B9/</guid>
+    <guid>https://anrce.github.io/posts/%E4%B8%BB%E9%A2%98/%E5%86%85%E5%AE%B9/</guid>
     <description><![CDATA[<h1 id="内容">内容</h1>
 <p>了解如何在 <strong>LoveIt</strong> 主题中快速, 直观地创建和组织内容.</p>]]></description>
 </item>
 <item>
     <title>主题文档 - 基本概念</title>
-    <link>https://example.org/posts/%E4%B8%BB%E9%A2%98/%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5/</link>
+    <link>https://anrce.github.io/posts/%E4%B8%BB%E9%A2%98/%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5/</link>
     <pubDate>Tue, 22 Oct 2024 16:52:36 &#43;0800</pubDate>
     <author>v</author>
-    <guid>https://example.org/posts/%E4%B8%BB%E9%A2%98/%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5/</guid>
+    <guid>https://anrce.github.io/posts/%E4%B8%BB%E9%A2%98/%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="/images/basic-configuration-preview.zh-cn.png" referrerpolicy="no-referrer">
             </div><h1 id="基本概念">基本概念</h1>
@@ -34,10 +34,10 @@
 </item>
 <item>
     <title>博客搭建过程</title>
-    <link>https://example.org/posts/blog_init/</link>
+    <link>https://anrce.github.io/posts/blog_init/</link>
     <pubDate>Mon, 21 Oct 2024 17:37:06 &#43;0800</pubDate>
     <author>v</author>
-    <guid>https://example.org/posts/blog_init/</guid>
+    <guid>https://anrce.github.io/posts/blog_init/</guid>
     <description><![CDATA[<h2 id="hugo下载">hugo下载</h2>
 <p><a href="https://github.com/gohugoio/hugo" target="_blank" rel="noopener noreffer ">https://github.com/gohugoio/hugo</a></p>
 <p>下载的是 <code>hugo_extended</code>版本，支持 <code>scss/sass</code>等语法</p>
@@ -65,10 +65,10 @@
 </item>
 <item>
     <title>模版文档</title>
-    <link>https://example.org/posts/%E4%B8%BB%E9%A2%98/%E6%A8%A1%E7%89%88%E6%96%87%E6%A1%A3/</link>
+    <link>https://anrce.github.io/posts/%E4%B8%BB%E9%A2%98/%E6%A8%A1%E7%89%88%E6%96%87%E6%A1%A3/</link>
     <pubDate>Fri, 04 Oct 2024 15:58:26 &#43;0800</pubDate>
     <author>v</author>
-    <guid>https://example.org/posts/%E4%B8%BB%E9%A2%98/%E6%A8%A1%E7%89%88%E6%96%87%E6%A1%A3/</guid>
+    <guid>https://anrce.github.io/posts/%E4%B8%BB%E9%A2%98/%E6%A8%A1%E7%89%88%E6%96%87%E6%A1%A3/</guid>
     <description><![CDATA[<h1 id="模版文档的前置参数">模版文档的前置参数</h1>
 <p>Hugo 允许你在文章内容前面添加 yaml, toml 或者 json 格式的前置参数.</p>
 <p>代码</p>

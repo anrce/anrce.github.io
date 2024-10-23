@@ -1,14 +1,14 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Categories - 分类 - rce blog</title>
-        <link>https://example.org/categories/</link>
+        <link>https://anrce.github.io/categories/</link>
         <description>Categories - 分类 - rce blog</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Fri, 04 Oct 2024 15:58:26 &#43;0800</lastBuildDate><atom:link href="https://example.org/categories/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Fri, 04 Oct 2024 15:58:26 &#43;0800</lastBuildDate><atom:link href="https://anrce.github.io/categories/" rel="self" type="application/rss+xml" /><item>
     <title>Misc</title>
-    <link>https://example.org/categories/misc/</link>
+    <link>https://anrce.github.io/categories/misc/</link>
     <pubDate>Fri, 04 Oct 2024 15:58:26 &#43;0800</pubDate>
     <author>v</author>
-    <guid>https://example.org/categories/misc/</guid>
+    <guid>https://anrce.github.io/categories/misc/</guid>
     <description><![CDATA[]]></description>
 </item>
 </channel>
