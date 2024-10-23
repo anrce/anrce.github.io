@@ -2,72 +2,72 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>https://anrce.github.io/about/</loc><lastmod>2024-10-23T18:02:16&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://localhost:1313/about/</loc><lastmod>2024-10-23T18:02:16&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="https://anrce.github.io/en/about/"
+                        href="http://localhost:1313/en/about/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="https://anrce.github.io/about/"
+                    href="http://localhost:1313/about/"
                     /></url><url>
-            <loc>https://anrce.github.io/friends/</loc><lastmod>2024-10-23T18:02:16&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://localhost:1313/friends/</loc><lastmod>2024-10-23T18:02:16&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="https://anrce.github.io/en/friends/"
+                        href="http://localhost:1313/en/friends/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="https://anrce.github.io/friends/"
+                    href="http://localhost:1313/friends/"
                     /></url><url>
-            <loc>https://anrce.github.io/</loc><lastmod>2024-10-23T18:02:16&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://localhost:1313/</loc><lastmod>2024-10-23T18:02:16&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="https://anrce.github.io/en/"
+                        href="http://localhost:1313/en/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="https://anrce.github.io/"
+                    href="http://localhost:1313/"
                     /></url><url>
-            <loc>https://anrce.github.io/posts/</loc><lastmod>2024-10-23T14:22:36&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://localhost:1313/posts/</loc><lastmod>2024-10-23T14:22:36&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="https://anrce.github.io/en/posts/"
+                        href="http://localhost:1313/en/posts/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="https://anrce.github.io/posts/"
+                    href="http://localhost:1313/posts/"
                     /></url><url>
-            <loc>https://anrce.github.io/posts/%E4%B8%BB%E9%A2%98/shortcodes/</loc><lastmod>2024-10-23T14:22:36&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://anrce.github.io/posts/%E4%B8%BB%E9%A2%98/%E5%86%85%E5%AE%B9/</loc><lastmod>2024-10-23T13:52:36&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://anrce.github.io/posts/%E4%B8%BB%E9%A2%98/%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5/</loc><lastmod>2024-10-22T16:52:36&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://anrce.github.io/posts/blog_init/</loc><lastmod>2024-10-21T18:50:42&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://localhost:1313/posts/%E4%B8%BB%E9%A2%98/shortcodes/</loc><lastmod>2024-10-23T14:22:36&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://localhost:1313/posts/%E4%B8%BB%E9%A2%98/%E5%86%85%E5%AE%B9/</loc><lastmod>2024-10-23T13:52:36&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://localhost:1313/posts/%E4%B8%BB%E9%A2%98/%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5/</loc><lastmod>2024-10-22T16:52:36&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://localhost:1313/posts/blog_init/</loc><lastmod>2024-10-21T18:50:42&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="https://anrce.github.io/en/posts/blog_init/"
+                        href="http://localhost:1313/en/posts/blog_init/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="https://anrce.github.io/posts/blog_init/"
+                    href="http://localhost:1313/posts/blog_init/"
                     /></url><url>
-            <loc>https://anrce.github.io/categories/</loc><lastmod>2024-10-04T15:58:26&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority><xhtml:link
+            <loc>http://localhost:1313/categories/</loc><lastmod>2024-10-04T15:58:26&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="https://anrce.github.io/en/categories/"
+                        href="http://localhost:1313/en/categories/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="https://anrce.github.io/categories/"
+                    href="http://localhost:1313/categories/"
                     /></url><url>
-            <loc>https://anrce.github.io/categories/misc/</loc><lastmod>2024-10-04T15:58:26&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url>
-            <loc>https://anrce.github.io/tags/</loc><lastmod>2024-10-04T15:58:26&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority><xhtml:link
+            <loc>http://localhost:1313/categories/misc/</loc><lastmod>2024-10-04T15:58:26&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url>
+            <loc>http://localhost:1313/tags/</loc><lastmod>2024-10-04T15:58:26&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="https://anrce.github.io/en/tags/"
+                        href="http://localhost:1313/en/tags/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="https://anrce.github.io/tags/"
+                    href="http://localhost:1313/tags/"
                     /></url><url>
-            <loc>https://anrce.github.io/tags/%E6%A8%A1%E7%89%88/</loc><lastmod>2024-10-04T15:58:26&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url>
-            <loc>https://anrce.github.io/posts/%E4%B8%BB%E9%A2%98/%E6%A8%A1%E7%89%88%E6%96%87%E6%A1%A3/</loc><lastmod>2024-10-04T15:58:26&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url></urlset>
+            <loc>http://localhost:1313/tags/%E6%A8%A1%E7%89%88/</loc><lastmod>2024-10-04T15:58:26&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url>
+            <loc>http://localhost:1313/posts/%E4%B8%BB%E9%A2%98/%E6%A8%A1%E7%89%88%E6%96%87%E6%A1%A3/</loc><lastmod>2024-10-04T15:58:26&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url></urlset>
