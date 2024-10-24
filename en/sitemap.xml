@@ -2,66 +2,66 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>http://localhost:1313/en/about/</loc><lastmod>2024-10-23T18:02:16&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://anrce.github.io/en/about/</loc><lastmod>2024-10-23T18:02:16&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
-                        href="http://localhost:1313/about/"
+                        href="https://anrce.github.io/about/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="http://localhost:1313/en/about/"
+                    href="https://anrce.github.io/en/about/"
                     /></url><url>
-            <loc>http://localhost:1313/en/friends/</loc><lastmod>2024-10-23T18:02:16&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://anrce.github.io/en/friends/</loc><lastmod>2024-10-23T18:02:16&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
-                        href="http://localhost:1313/friends/"
+                        href="https://anrce.github.io/friends/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="http://localhost:1313/en/friends/"
+                    href="https://anrce.github.io/en/friends/"
                     /></url><url>
-            <loc>http://localhost:1313/en/</loc><lastmod>2024-10-23T18:02:16&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://anrce.github.io/en/</loc><lastmod>2024-10-23T18:02:16&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
-                        href="http://localhost:1313/"
+                        href="https://anrce.github.io/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="http://localhost:1313/en/"
+                    href="https://anrce.github.io/en/"
                     /></url><url>
-            <loc>http://localhost:1313/en/posts/</loc><lastmod>2024-10-21T17:37:06&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://anrce.github.io/en/posts/</loc><lastmod>2024-10-21T17:37:06&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
-                        href="http://localhost:1313/posts/"
+                        href="https://anrce.github.io/posts/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="http://localhost:1313/en/posts/"
+                    href="https://anrce.github.io/en/posts/"
                     /></url><url>
-            <loc>http://localhost:1313/en/posts/blog_init/</loc><lastmod>2024-10-21T17:37:06&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://anrce.github.io/en/posts/blog_init/</loc><lastmod>2024-10-21T17:37:06&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
-                        href="http://localhost:1313/posts/blog_init/"
+                        href="https://anrce.github.io/posts/blog_init/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="http://localhost:1313/en/posts/blog_init/"
+                    href="https://anrce.github.io/en/posts/blog_init/"
                     /></url><url>
-            <loc>http://localhost:1313/en/categories/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://anrce.github.io/en/categories/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
-                        href="http://localhost:1313/categories/"
+                        href="https://anrce.github.io/categories/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="http://localhost:1313/en/categories/"
+                    href="https://anrce.github.io/en/categories/"
                     /></url><url>
-            <loc>http://localhost:1313/en/tags/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://anrce.github.io/en/tags/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
-                        href="http://localhost:1313/tags/"
+                        href="https://anrce.github.io/tags/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="http://localhost:1313/en/tags/"
+                    href="https://anrce.github.io/en/tags/"
                     /></url></urlset>

@@ -1,14 +1,14 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Tags - 标签 - rce blog</title>
-        <link>http://localhost:1313/tags/</link>
+        <link>https://anrce.github.io/tags/</link>
         <description>Tags - 标签 - rce blog</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Fri, 04 Oct 2024 15:58:26 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/tags/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Fri, 04 Oct 2024 15:58:26 &#43;0800</lastBuildDate><atom:link href="https://anrce.github.io/tags/" rel="self" type="application/rss+xml" /><item>
     <title>模版</title>
-    <link>http://localhost:1313/tags/%E6%A8%A1%E7%89%88/</link>
+    <link>https://anrce.github.io/tags/%E6%A8%A1%E7%89%88/</link>
     <pubDate>Fri, 04 Oct 2024 15:58:26 &#43;0800</pubDate>
     <author>v</author>
-    <guid>http://localhost:1313/tags/%E6%A8%A1%E7%89%88/</guid>
+    <guid>https://anrce.github.io/tags/%E6%A8%A1%E7%89%88/</guid>
     <description><![CDATA[]]></description>
 </item>
 </channel>
